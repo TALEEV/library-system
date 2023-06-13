@@ -1,11 +1,1 @@
 t1=what are you doing
-t2=i am making changes to t2 from work1
-t3=i am making changes to t3 from work1
-t4=i am making changes to t4 from work1
-
-
-
-
-t5=i am making changes to t2 from main
-t6=i am making changes to t3 from main
-t7=i am making changes to t4 from main
